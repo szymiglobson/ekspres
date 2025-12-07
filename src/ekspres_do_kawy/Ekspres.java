@@ -29,7 +29,7 @@ public class Ekspres implements ActionListener {
             "Opróżnij pojemnik z fusami.",
             "Napełnij pojemnik z wodą.",
             "Dosyp kawy do ekspresu.",
-            "jakas zmiana tego typu"
+            "nowy komunikat"
     };
     String wybranaKawa = "";
     String rozmiarKawy = "";
